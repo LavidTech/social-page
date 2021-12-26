@@ -11,6 +11,23 @@ export default [
       cardAvatarColor: 'none'
     }
   },
+
+    {
+    id: 'ig-page',
+    url: 'https://www.instagram.com/taaooma/',
+    title: 'Taaooma Instagram Channel Page',
+    icon: 'fab fa-instagram',
+    subTitle: 'This is my Instagram Page',
+    colors: {
+      cardColor: 'orange',
+      cardTheme: 'dark',
+      cardAvatarColor: 'red darken-3'
+    }
+  },
+
+
+
+
   {
     id: 'yt-page',
     url: 'https://www.youtube.com/channel/UCvG_RH3tAekGN5rPUVUmcIg',
